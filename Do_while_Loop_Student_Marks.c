@@ -1,9 +1,10 @@
 /*
 Author:Michael 
-Reg number:BCS-01-0001/2026 
+Reg number:BCS-05-0579/2026 
 Description:Students Marks program 
 Date:06/10/2026
 */
+
 #include <stdio.h>
 int main (){
     int students=1, marks;
