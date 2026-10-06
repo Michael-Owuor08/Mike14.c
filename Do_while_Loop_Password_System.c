@@ -2,7 +2,7 @@
 Author:Michael 
 Reg number:BCS-01-0001/2026 
 Description:Hello World Program 
-Date:20/09/2026
+Date:06/10/2026
 */
 #include <stdio.h>
 #include <string.h>
