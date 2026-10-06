@@ -3,7 +3,10 @@
 //program to display hello world
 
 /* (multiline comment) 
-Author:Michael Reg number:BCS-01-0001/2026 Description:Hello World Program Date: 
+Author:Michael 
+Reg number:BCS-01-0001/2026 
+Description:Hello World Program 
+Date:20/09/2026
 version 1 */
 
 //pre-processor directive 
