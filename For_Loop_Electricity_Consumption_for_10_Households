@@ -1,0 +1,20 @@
+#include <stdio.h>
+int main (){
+    int household;
+    float units;
+    
+    printf("=========================================");
+    printf("\nELECTRICITY CONSUMPTION PER HOUSEHOLD\n");
+    printf("=========================================");
+    
+    for(household=1;household<=10;household++){
+        printf("\n\nElectricity units consumed by household %d:\t",household);
+        scanf("%f",&units);
+        printf("\nUnits consumed=%.2f units",units);
+        
+    }
+    
+    return 0;  
+
+}
+    
