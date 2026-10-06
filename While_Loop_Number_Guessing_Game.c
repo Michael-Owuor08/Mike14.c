@@ -1,3 +1,9 @@
+/*
+Author:Michael 
+Reg number:BCS-01-0001/2026 
+Description:Number Guessing Game program 
+Date:06/10/2026
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
