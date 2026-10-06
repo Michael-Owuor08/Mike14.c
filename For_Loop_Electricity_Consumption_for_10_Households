@@ -4,8 +4,9 @@ Reg number:BCS-05-0579/2026
 Description:Electricity consumption for 10 households 
 Date:06/10/2026
 */
+
 #include <stdio.h>
-int main(){
+int main (){
     int household;
     float units;
     
