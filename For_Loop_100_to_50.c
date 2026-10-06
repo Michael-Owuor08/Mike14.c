@@ -1,7 +1,7 @@
 /*
 Author:Michael 
 Reg number:BCS-01-0001/2026 
-Description:Hello World Program 
+Description:Descending 100 to 50 program 
 Date:06/10/2026
 */
 #include <stdio.h>
