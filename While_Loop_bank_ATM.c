@@ -1,3 +1,10 @@
+/*
+Author:Michael 
+Reg number:BCS-05-0579/2026 
+Description:Bank ATM program 
+Date:06/10/2026
+/*
+
 #include<stdio.h>
 int main(){
     float balance, withdraw;
