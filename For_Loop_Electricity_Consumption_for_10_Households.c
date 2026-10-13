@@ -1,0 +1,24 @@
+/*
+Author:Michael 
+Reg number:BCS-05-0579/2026 
+Description:Electricity consumption for 10 households 
+Date:06/10/2026
+*/
+
+#include <stdio.h>
+int main (){
+    int household;
+    float units;
+    
+    printf("=========================================");
+    printf("\nELECTRICITY CONSUMPTION PER HOUSEHOLD\n");
+    printf("=========================================");
+    
+    for(household=1;household<=10;household++){
+        printf("\n\nElectricity units consumed by household %d:\t",household);
+        scanf("%f",&units);
+        printf("\nUnits consumed=%.2f units",units);
+        
+    }
+    
+    return 0; 
