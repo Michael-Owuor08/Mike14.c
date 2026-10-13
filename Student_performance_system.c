@@ -1,4 +1,3 @@
-https://forms.gle/S2H38GUT8LHecCAh6
 #include <stdio.h>
 
 int calculateTotal(int mark1, int mark2, int mark3);
